@@ -1,6 +1,244 @@
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RV1HXKhH/spy.jpg" group-title="LOKAL" ,SCTV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxosfb Firefox/31.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://mpwtv.my.id/vidioye/204-sctv.m3u8
 
-SDS
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RV1HXKhH/spy.jpg" group-title="LOKAL" ,SCTV Back
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxosfb Firefox/31.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://anon.devds.site/link.php?hash=aHR0cDovLzEwMy4xNjcuMTY3LjU6ODExMS9wbGF5L2EwMG8vaW5kZXgubTN1OA==
+
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.postimg.cc/RV1HXKhH/spy.jpg,SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxosfb Firefox/31.0
+http://210.210.155.35/session/eb8f2208-e8ab-11ec-ba48-c81f66f89318/qwr9ew/s/s03/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=SCTV
+
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/RV1HXKhH/spy.jpg" group-title="LOKAL" ,INDO CH
+https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/live/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png" group-title="LOKAL" ,RTV
+https://av-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+
+
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="LOKAL",TRANS 7 
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_shareExt_b744100_sleng.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="LOKAL",TRANS 7 2
+http://rr.dens.tv/h/h11/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="LOKAL",TRANS 7 3
+https://av-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
+
+
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png" group-title="LOKAL",TRANS TV 
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_shareExt_b744100_sleng.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png" group-title="LOKAL",TRANS TV 2
+https://av-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
+
+
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI._
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rcti-linier.rctiplus.id/RCTI2022.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI 2._
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://anv-livechannel-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=http://m.rctiplus.com/
+https://anon.devds.site/link.php?hash=aHR0cDovLzEwMy4xNjcuMTY3LjU6ODExMS9wbGF5L2EwMWMvaW5kZXgubTN1OA==
+#https://h-rcti.rctiplus.id/RCTI2022.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI +2._
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://anv-livechannel-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png",MNCTV+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://anon.devds.site/link.php?hash=aHR0cDovLzEwMy4xNjcuMTY3LjU6ODExMS9wbGF5L2EwMTEvaW5kZXgubTN1OA==
+
+
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png",MNCTV._
+#EXTVLCOPT:http-referrer=http://m.rctiplus.com
+https://d-mnctv.rctiplus.id/MNCTV_2021.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png",MNCTV 2._
+https://av-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+
+
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png",GlobalTV+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://anon.devds.site/link.php?hash=aHR0cDovLzEwMy4xNjcuMTY3LjU6ODExMS9wbGF5L2EwMTQvaW5kZXgubTN1OA==
+
+
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png",GlobalTV
+#EXTVLCOPT:http-referrer=http://m.rctiplus.com
+https://d-gtv.rctiplus.id/GTV2021.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png",GlobalTV 2
+https://av-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
+
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png",INEWS+
+#EXTVLCOPT:http-referrer=http://m.rctiplus.com
+https://d-inews.rctiplus.id/INEWS2022.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png",INEWS+ 2
+https://av-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+
+
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png",INEWS++
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://d3o5yreltwquyt.cloudfront.net/INEWS2022.m3u8
+
+
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15",INDOSIAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxosfb Firefox/31.0
+http://210.210.155.35/session/b457c8a8-e8ab-11ec-9eb0-b82a72d63267/qwr9ew/s/s04/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Indosiar
+
+
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15",INDOSIAR DENS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxosfb Firefox/31.0
+http://210.210.155.35/qwr9ew/s/s04/02.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15" group-title="LOKAL" ,INDOSIAR 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxosfb Firefox/31.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://mpwtv.my.id/vidioye/205-indosiar.m3u8
+
+
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Moji_blue.svg",Moji CH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxosfb Firefox/31.0
+http://210.210.155.37/qwr9ew/s/s41/index.m3u8
+
+
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Moji_blue.svg",Moji CH2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxosfb Firefox/31.0
+https://geocities.ws/ariev7xx/moji.m3u8
+
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Moji_blue.svg",Moji CH3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxosfb Firefox/31.0
+http://rr2.dens.tv/s/s41/index.m3u8
+
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.postimg.cc/RV1HXKhH/spy.jpg,O CH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxosfb Firefox/31.0
+http://210.210.155.37/session/ce412b6a-e8ab-11ec-9efa-b82a72d63267/qwr9ew/s/s41/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=O_Channel
+
+
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.postimg.cc/RV1HXKhH/spy.jpg,NET
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxosfb Firefox/31.0
+http://210.210.155.35/session/4996971e-e8ac-11ec-a06a-c81f66f89318/qwr9ew/s/s08/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=NET
+
+
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.postimg.cc/RV1HXKhH/spy.jpg,DuniaLain
+https://anon.devds.site/link.php?hash=aHR0cDovL3d3dy5nb2xkZW50di50ZWNoOjI1NDYxL05vcHJpL05vcHJpLzI1NjU4
+
+
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.postimg.cc/RV1HXKhH/spy.jpg,Insert
+http://iptvid.my.id/hmm/insert.m3u8?by=iptv_id
+
+
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png",ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxosfb Firefox/31.0
+http://210.210.155.35/session/30b1e4b0-e8ac-11ec-a75d-c81f66f89318/qwr9ew/s/s07/index3.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=antv
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png",ANTV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxosfb Firefox/31.0
+https://av-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+
+
+
+#EXTINF:-1  group-title="LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",TVONE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxosfb Firefox/31.0
+http://210.210.155.35/session/bdc8ec84-4df8-11ed-8981-c81f66f89318/qwr9ew/s/s105/01.m3u8|Referer=http://www.dens.tv/
+
+
+#EXTINF:-1  group-title="LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",TVONE 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxosfb Firefox/31.0
+http://nonton.wap.sh/id/010.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:-1  group-title="LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",TVONE 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxosfb Firefox/31.0
+https://av-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
+
+
+#EXTINF:-1  group-title="LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png",KompasTV
+https://m3u-editor.com/serve/e26b0220-4172-11ec-a77d-6f3f9638e1ee/421844336
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:-1  group-title="LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png",KompasTV 2
+https://av-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+
+
+#EXTINF:-1  group-title="LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png", MetroTV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+
+
+#EXTINF:-1  group-title="LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png", MetroTV 2
+https://m3u-editor.com/serve/e26b0220-4172-11ec-a77d-6f3f9638e1ee/421844338
+
+
+#EXTINF:-1  group-title="LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png", MetroTV 3
+https://player.koudek.my.id/provider/vision/national/metrotv/
+
+
+#EXTINF:-1  group-title="LOKAL" tvg-logo="https://i.postimg.cc/RV1HXKhH/spy.jpg,CNBC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxosfb Firefox/31.0
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+
+
+#EXTINF:-1  group-title="LOKAL" tvg-logo="https://i.postimg.cc/RV1HXKhH/spy.jpg,CNN TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/zhuszozszxosfb Firefox/31.0
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://cdn.ksa.my.id/tvri.png" group-title="National TV",TVRI
+https://anv-livechannel-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://cdn.ksa.my.id/jaktv.png" group-title="National TV",JAKTV
+https://anv-livechannel-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
+
+
+
+
+
+
+
+
+
 
 
 
